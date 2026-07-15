@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<packageId>a65536.MeowxVVECollaboration</packageId>
+	<name>[Meow] Online Shop x VVE Collaboration</name>
+	<author>Astriclypeus</author>
+	<description>A collaboration between [Meow] Online Shop and Vanilla Vehicles Expanded.</description>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<modVersion>0.1</modVersion>
+	<modDependencies>
+		<li>
+			<packageId>EoralMilk.OnlineShop</packageId>
+			<displayName>[Meow] Online Shop</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/3351722359</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>OskarPotocki.VanillaVehiclesExpanded</packageId>
+			<displayName>Vanilla Vehicles Expanded</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/3014906877</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>EoralMilk.OnlineShop</li>
+		<li>OskarPotocki.VanillaVehiclesExpanded</li>
+	</loadAfter>
+</ModMetaData>
