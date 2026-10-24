@@ -6,9 +6,11 @@
 	<author>Astriclypeus</author>
 	<description>A collaboration between [Meow] Online Shop and Vanilla Vehicles Expanded.</description>
 	<supportedVersions>
+		<li>1.5</li>
 		<li>1.6</li>
 	</supportedVersions>
-	<modVersion>0.1</modVersion>
+	<modVersion>1.0</modVersion>
+
 	<modDependencies>
 		<li>
 			<packageId>EoralMilk.OnlineShop</packageId>
@@ -21,6 +23,7 @@
 			<steamWorkshopUrl>steam://url/CommunityFilePage/3014906877</steamWorkshopUrl>
 		</li>
 	</modDependencies>
+
 	<loadAfter>
 		<li>EoralMilk.OnlineShop</li>
 		<li>OskarPotocki.VanillaVehiclesExpanded</li>
